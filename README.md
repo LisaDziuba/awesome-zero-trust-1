@@ -74,6 +74,8 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Google [How Google adopted BeyondCorp](https://security.googleblog.com/2019/06/how-google-adopted-beyondcorp.html)
 - Wall Street Journal [Google Moves Its Corporate Applications to the Internet](https://blogs.wsj.com/cio/2015/05/11/google-moves-its-corporate-applications-to-the-internet/)
 - Gitlab's [Blog series](https://about.gitlab.com/blog/tags.html#zero-trust) and their [reddit AMA](https://www.reddit.com/r/netsec/comments/d71p1d/were_a_100_remote_cloudnative_company_and_were/)
+- Deep dive into what [Zero Trust authorization](https://www.cerbos.dev/blog/zero-trust-authorization) is and its principles.
+
 
 ### Videos
 
